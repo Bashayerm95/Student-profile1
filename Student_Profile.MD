@@ -10,9 +10,9 @@ Cohort 1
 
    __Student_TODO:__ 
  
-  in 5 years i would like to become a data analyst lead or team manager  
-  in a bank or fintech app developer anything related to computr to be part of it 
-  take more responsibilities to gain more knowledge
+  in 5 years i would like to become a team manager  
+  in a bank or a fintech app developer anything related to computr or developing so i can be a part of it 
+  and to take more responsibilities to gain more knowledge
 
 ### Student mini-CV:
 
